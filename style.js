@@ -1,6 +1,6 @@
 
 var hamburgerdiv = document.querySelector(".hamburger");
-var mobileLinks = document.querySelector(".mobile-controlls")
+var mobileLinks = document.querySelector(".mobile-controlls");
 
 function dosomething (){
     hamburgerdiv.classList.toggle("showburger")
